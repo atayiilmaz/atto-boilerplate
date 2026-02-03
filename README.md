@@ -5,7 +5,7 @@
 #### ──── • Atto Boilerplate • ────
 **Fast • Feature-rich • Production-ready**
 
-[![npm version](https://badge.fury.io/js/create-atto.svg)](https://www.npmjs.org/package/atto-boilerplate)
+[![npm version](https://badge.fury.io/js/create-atto.svg)](https://www.npmjs.org/package/create-atto)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **A production-ready Expo React Native boilerplate with essential integrations.**
@@ -508,7 +508,7 @@ MIT © 2026 Ata Berk Yılmaz
 
 ## Links
 
-- **npm:** [https://www.npmjs.com/package/create-atto](https://www.npmjs.com/package/atto-boilerplate)
+- **npm:** [https://www.npmjs.com/package/create-atto](https://www.npmjs.com/package/create-atto)
 - **GitHub:** [https://github.com/atayiilmaz/atto-boilerplate](https://github.com/atayiilmaz/atto-boilerplate)
 - **Expo Docs:** [https://docs.expo.dev](https://docs.expo.dev)
 - **React Native:** [https://reactnative.dev](https://reactnative.dev)
