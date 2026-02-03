@@ -503,7 +503,7 @@ Examples:
 
 ## License
 
-MIT © [Your Name]
+MIT © Ata Berk Yılmaz
 
 ---
 
