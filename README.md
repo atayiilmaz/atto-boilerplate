@@ -510,7 +510,7 @@ MIT © Ata Berk Yılmaz
 ## Links
 
 - **npm:** [https://www.npmjs.com/package/create-atto](https://www.npmjs.com/package/create-atto)
-- **GitHub:** [https://github.com/your-username/create-atto](https://github.com/your-username/create-atto)
+- **GitHub:** [https://github.com/atayiilmaz/atto-boilerplate](https://github.com/atayiilmaz/atto-boilerplate)
 - **Expo Docs:** [https://docs.expo.dev](https://docs.expo.dev)
 - **React Native:** [https://reactnative.dev](https://reactnative.dev)
 
