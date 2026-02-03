@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/appicon.png" alt="Atto Logo" width="200" />
+<img src="https://github.com/atayiilmaz/atto-boilerplate/blob/main/src/appicon.png" alt="Atto Logo" width="200" />
 
 #### ──── • Atto Boilerplate • ────
 **Fast • Feature-rich • Production-ready**
