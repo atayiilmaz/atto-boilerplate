@@ -12,6 +12,18 @@ import type { Answers } from './types.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const TEXT_ART = `
+${chalk.cyan('   ░███   ░██████████░░██████████  ░██████')}
+${chalk.cyan('  ░██░██      ░██      ░░██     ░██   ░██')}
+${chalk.cyan(' ░██  ░██     ░██      ░░██    ░██     ░██')}
+${chalk.cyan('░█████████    ░██      ░░██    ░██     ░██')}
+${chalk.cyan('░██    ░██    ░██      ░░██    ░██     ░██')}
+${chalk.cyan('░██    ░██    ░██      ░░██     ░██   ░██')}
+${chalk.cyan('░██    ░██    ░██      ░░██      ░██████')}
+${chalk.white.bold('                ──── • Expo Boilerplate • ────                ')}
+${chalk.gray('               Fast • Feature-rich • Production-ready               ')}
+`;
+
 const program = new Command();
 
 program
@@ -23,9 +35,7 @@ program
   .option('--yes', 'Skip confirmation prompts')
   .action(async (projectName: string | undefined, options: { default?: boolean; yes?: boolean }) => {
     console.log('');
-    console.log(chalk.cyan.bold('┌─────────────────────────────────────────┐'));
-    console.log(chalk.cyan.bold('│') + chalk.cyan.bold('  Welcome to ') + chalk.white.bold('Atto') + chalk.cyan.bold(' Scaffolder') + chalk.cyan.bold('        │'));
-    console.log(chalk.cyan.bold('└─────────────────────────────────────────┘'));
+    console.log(TEXT_ART);
     console.log('');
 
     try {
