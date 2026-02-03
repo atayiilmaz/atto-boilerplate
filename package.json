@@ -25,9 +25,9 @@
     "scaffold",
     "boilerplate",
     "cli",
-    "create-atto"
+    "create-atto-app"
   ],
-  "author": "",
+  "author": "Ata Berk Yılmaz",
   "license": "MIT",
   "dependencies": {
     "@inquirer/prompts": "^7.2.0",

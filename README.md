@@ -5,7 +5,7 @@
 #### ──── • Atto Boilerplate • ────
 **Fast • Feature-rich • Production-ready**
 
-[![npm version](https://badge.fury.io/js/create-atto.svg)](https://www.npmjs.org/package/create-atto)
+[![npm version](https://badge.fury.io/js/create-atto.svg)](https://www.npmjs.org/package/atto-boilerplate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **A production-ready Expo React Native boilerplate with essential integrations.**
@@ -35,15 +35,15 @@ Start your next Expo project in seconds, not hours.
 
 Atto provides a solid foundation for your Expo React Native app with:
 
-- **⚡️ Fast Setup** - Create a new project in seconds with interactive CLI
-- **🎨 Beautiful UI** - Pre-built, customizable components with dark mode support
-- **🌍 Internationalization** - Built-in i18n with support for 4+ languages
-- **📱 Onboarding Flow** - Smooth, animated onboarding experience
-- **🔐 Firebase Integration** - Analytics, Auth, and Firestore (optional)
-- **💰 RevenueCat** - In-app purchases and subscriptions (optional)
-- **📺 AdMob** - Banner ad integration (optional)
-- **🎯 Type-Safe** - Full TypeScript support
-- **🧭 Expo Router** - File-based routing with NativeTabs
+- ** Fast Setup** - Create a new project in seconds with interactive CLI
+- ** Beautiful UI** - Pre-built, customizable components with dark mode support
+- ** Internationalization** - Built-in i18n with support for 4+ languages
+- ** Onboarding Flow** - Smooth, animated onboarding experience
+- ** Firebase Integration** - Analytics, Auth, and Firestore (optional)
+- ** RevenueCat** - In-app purchases and subscriptions (optional)
+- ** AdMob** - Banner ad integration (optional)
+- ** Type-Safe** - Full TypeScript support
+- ** Expo Router** - File-based routing with NativeTabs
 
 ---
 
@@ -53,13 +53,13 @@ Atto provides a solid foundation for your Expo React Native app with:
 
 ```bash
 # Interactive mode (recommended)
-npx create-atto my-app
+npx create-atto-app my-app
 
 # With default options
-npx create-atto my-app --default
+npx create-atto-app my-app --default
 
 # Skip confirmation prompts
-npx create-atto my-app --yes
+npx create-atto-app my-app --yes
 ```
 
 ### Follow the setup prompts
@@ -491,25 +491,24 @@ Examples:
 
 ## Roadmap
 
-- [ ] Web support with Expo Web
 - [ ] Push notifications
-- [ ] Deep linking support
-- [ ] More payment providers (Stripe, Paddle)
+- [ ] More payment providers (Superwall, Adapty)
+- [ ] More analytics providers (Adjust, Appsflyer, MetaSDK)
+- [ ] More BAAS providers (Supabase)
 - [ ] Additional ad formats (Interstitial, Rewarded)
-- [ ] Analytics dashboards
 - [ ] E2E testing setup
 
 ---
 
 ## License
 
-MIT © Ata Berk Yılmaz
+MIT © 2026 Ata Berk Yılmaz
 
 ---
 
 ## Links
 
-- **npm:** [https://www.npmjs.com/package/create-atto](https://www.npmjs.com/package/create-atto)
+- **npm:** [https://www.npmjs.com/package/create-atto](https://www.npmjs.com/package/atto-boilerplate)
 - **GitHub:** [https://github.com/atayiilmaz/atto-boilerplate](https://github.com/atayiilmaz/atto-boilerplate)
 - **Expo Docs:** [https://docs.expo.dev](https://docs.expo.dev)
 - **React Native:** [https://reactnative.dev](https://reactnative.dev)
