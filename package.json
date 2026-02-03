@@ -2,6 +2,14 @@
   "name": "create-atto",
   "version": "0.1.2",
   "description": "Scaffolding CLI for Atto Expo boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atayiilmaz/atto-boilerplate"
+  },
+  "homepage": "https://github.com/atayiilmaz/atto-boilerplate",
+  "bugs": {
+    "url": "https://github.com/atayiilmaz/atto-boilerplate/issues"
+  },
   "type": "module",
   "bin": {
     "create-atto-app": "./dist/index.js"
