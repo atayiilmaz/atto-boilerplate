@@ -1,10 +1,10 @@
 {
-  "name": "create-atto",
-  "version": "0.1.1",
+  "name": "atto-boilerplate",
+  "version": "0.1.2",
   "description": "Scaffolding CLI for Atto Expo boilerplate",
   "type": "module",
   "bin": {
-    "create-atto": "./dist/index.js"
+    "create-atto-app": "./dist/index.js"
   },
   "exports": "./dist/index.js",
   "files": [

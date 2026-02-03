@@ -29,7 +29,7 @@ const program = new Command();
 program
   .name('create-atto')
   .description('Create a new Expo app with the Atto boilerplate')
-  .version('0.1.0')
+  .version('0.1.2')
   .argument('[project-name]', 'Name of the project')
   .option('-d, --default', 'Skip prompts and use defaults')
   .option('--yes', 'Skip confirmation prompts')
