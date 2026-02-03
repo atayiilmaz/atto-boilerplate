@@ -12,7 +12,7 @@
   },
   "type": "module",
   "bin": {
-    "create-atto-app": "./dist/index.js"
+    "create-atto": "./dist/index.js"
   },
   "exports": "./dist/index.js",
   "files": [

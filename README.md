@@ -53,13 +53,13 @@ Atto provides a solid foundation for your Expo React Native app with:
 
 ```bash
 # Interactive mode (recommended)
-npx create-atto-app my-app
+npx create-atto my-app
 
 # With default options
-npx create-atto-app my-app --default
+npx create-atto my-app --default
 
 # Skip confirmation prompts
-npx create-atto-app my-app --yes
+npx create-atto my-app --yes
 ```
 
 ### Follow the setup prompts
