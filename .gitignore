@@ -28,3 +28,6 @@ coverage/
 
 # Package files
 *.tgz
+
+template/google-services.json
+template/GoogleService-Info.plist
