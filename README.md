@@ -2,7 +2,7 @@
 
 <img src="./src/appicon.png" alt="Atto Logo" width="200" />
 
-#### ──── • Expo Boilerplate • ────
+#### ──── • Atto Boilerplate • ────
 **Fast • Feature-rich • Production-ready**
 
 [![npm version](https://badge.fury.io/js/create-atto.svg)](https://www.npmjs.org/package/create-atto)
