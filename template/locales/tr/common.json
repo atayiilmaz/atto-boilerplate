@@ -1,0 +1,90 @@
+{
+  "tabs": {
+    "home": "Ana Sayfa",
+    "settings": "Ayarlar"
+  },
+  "dashboard": {
+    "welcome": "Tekrar hoş geldiniz",
+    "user": "Geliştirici",
+    "readyToBuild": "İnşa etmeye hazır mısınız?",
+    "readyToBuildDesc": "Güçlü araçlar ve bileşenlerimizle harika deneyimler oluşturmaya başlayın.",
+    "viewDocs": "Dokümanları Görüntüle",
+    "share": "Paylaş",
+    "analytics": "Analitik",
+    "analyticsDesc": "Veri takibi",
+    "users": "Kullanıcılar",
+    "usersDesc": "Kimlik Doğrulama ve Profiller",
+    "database": "Veritabanı",
+    "databaseDesc": "Şema ve Günlükler",
+    "uiKit": "UI Kiti",
+    "uiKitDesc": "Genel Bileşenler",
+    "systemStatus": "Sistem Durumu",
+    "systemOperational": "Tüm sistemler operasyonel",
+    "viewLogs": "Günlükleri Görüntüle",
+    "version": "Boilerplate v1.0.0",
+    "buildDate": "Build 1"
+  },
+  "onboarding": {
+    "title": "Hoş Geldiniz",
+    "description": "Harika uygulamamızla başlayın",
+    "getStarted": "Başla",
+    "skip": "Atla",
+    "next": "Sonraki",
+    "step1": {
+      "title": "Uygulamaya Hoş Geldiniz",
+      "subtitle": "Yolculuğunuz buradan başlıyor",
+      "description": "Görevlerinizi yönetmenin ve üretkenliğinizi artırmanın en iyi yolunu deneyimleyin."
+    },
+    "step2": {
+      "title": "Daha Hızlı Oluşturun",
+      "subtitle": "Üretkenliğinizi artırın",
+      "description": "Daha az zamanda daha fazla başarmanıza yardımcı olmak için tasarlanmış güçlü özellikler."
+    },
+    "step3": {
+      "title": "Düzenli Kalın",
+      "subtitle": "Her şey tek bir yerde",
+      "description": "Tüm faaliyetlerinizi takip edin ve önemli bir son tarihi kaçırmayın."
+    }
+  },
+  "paywall": {
+    "title": "Premium'a Yükseltin",
+    "description": "Reklamları kaldırın ve tüm özelliklerin kilidini açın",
+    "subscribe": "Şimdi Abone Ol",
+    "restore": "Satın Alımı Geri Yükle",
+    "weekly": "Haftalık",
+    "yearly": "Yıllık",
+    "save": "%{{percent}} tasarruf edin",
+    "perMonth": "/ay",
+    "benefits": {
+      "noAds": "Reklamsız deneyim",
+      "unlockAll": "Tüm özelliklerin kilidini aç",
+      "support": "Öncelikli destek"
+    }
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "account": "Hesap",
+    "profile": "Profil",
+    "security": "Şifre ve Güvenlik",
+    "application": "Uygulama",
+    "darkMode": "Karanlık Mod",
+    "notifications": "Bildirimler",
+    "on": "Açık",
+    "off": "Kapalı",
+    "language": "Dil",
+    "support": "Destek",
+    "helpCenter": "Yardım Merkezi",
+    "privacyPolicy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "logout": "Çıkış Yap",
+    "logoutConfirm": "Çıkış yapmak istediğinizden emin misiniz?"
+  },
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "back": "Geri",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu"
+  }
+}

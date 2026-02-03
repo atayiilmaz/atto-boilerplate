@@ -1,0 +1,49 @@
+{
+  "name": "create-atto",
+  "version": "0.1.0",
+  "description": "Scaffolding CLI for Atto Expo boilerplate",
+  "type": "module",
+  "bin": {
+    "create-atto": "./dist/index.js"
+  },
+  "exports": "./dist/index.js",
+  "files": [
+    "dist",
+    "template"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepack": "npm run build",
+    "test": "node --test dist/**/*.test.js",
+    "lint": "eslint src",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "scaffold",
+    "boilerplate",
+    "cli",
+    "create-atto"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^7.2.0",
+    "chalk": "^5.4.1",
+    "cli-spinners": "^2.9.2",
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "fast-glob": "^3.3.2",
+    "ora": "^8.1.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "tabs": {
+    "home": "Inicio",
+    "settings": "Ajustes"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de nuevo",
+    "user": "Dev",
+    "readyToBuild": "¿Listo para crear?",
+    "readyToBuildDesc": "Comienza a crear experiencias increíbles con nuestras herramientas y componentes.",
+    "viewDocs": "Ver Docs",
+    "share": "Compartir",
+    "analytics": "Analíticas",
+    "analyticsDesc": "Seguimiento de datos",
+    "users": "Usuarios",
+    "usersDesc": "Auth y Perfiles",
+    "database": "Base de Datos",
+    "databaseDesc": "Esquema y Logs",
+    "uiKit": "UI Kit",
+    "uiKitDesc": "Componentes Globales",
+    "systemStatus": "Estado del Sistema",
+    "systemOperational": "Todos los sistemas operativos",
+    "viewLogs": "Ver Logs",
+    "version": "Boilerplate v1.0.0",
+    "buildDate": "Build 1"
+  },
+  "onboarding": {
+    "title": "Bienvenido",
+    "description": "Comienza con nuestra increíble aplicación",
+    "getStarted": "Comenzar",
+    "skip": "Saltar",
+    "next": "Siguiente",
+    "step1": {
+      "title": "Bienvenido a la App",
+      "subtitle": "Tu viaje comienza aquí",
+      "description": "Experimenta la mejor manera de administrar tus tareas y aumentar tu productividad."
+    },
+    "step2": {
+      "title": "Crea Más Rápido",
+      "subtitle": "Aumenta tu productividad",
+      "description": "Funciones poderosas diseñadas para ayudarte a lograr más en menos tiempo."
+    },
+    "step3": {
+      "title": "Mantente Organizado",
+      "subtitle": "Todo en un solo lugar",
+      "description": "Controla todas tus actividades y nunca pierdas una fecha importante."
+    }
+  },
+  "paywall": {
+    "title": "Actualizar a Premium",
+    "description": "Elimina anuncios y desbloquea todas las funciones",
+    "subscribe": "Suscribirse ahora",
+    "restore": "Restaurar compra",
+    "weekly": "Semanal",
+    "yearly": "Anual",
+    "save": "Ahorra {{percent}}%",
+    "perMonth": "/mes",
+    "benefits": {
+      "noAds": "Sin anuncios",
+      "unlockAll": "Desbloquear todas las funciones",
+      "support": "Soporte prioritario"
+    }
+  },
+  "settings": {
+    "title": "Ajustes",
+    "account": "Cuenta",
+    "profile": "Perfil",
+    "security": "Contraseña y Seguridad",
+    "application": "Aplicación",
+    "darkMode": "Modo Oscuro",
+    "notifications": "Notificaciones",
+    "on": "Activado",
+    "off": "Desactivado",
+    "language": "Idioma",
+    "support": "Soporte",
+    "helpCenter": "Centro de Ayuda",
+    "privacyPolicy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "logout": "Cerrar Sesión",
+    "logoutConfirm": "¿Estás seguro de que quieres cerrar sesión?"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "back": "Atrás",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error"
+  }
+}

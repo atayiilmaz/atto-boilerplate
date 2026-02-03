@@ -1,0 +1,90 @@
+{
+  "tabs": {
+    "home": "Home",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "user": "Dev",
+    "readyToBuild": "Ready to build?",
+    "readyToBuildDesc": "Start creating amazing experiences with our powerful tools and components.",
+    "viewDocs": "View Docs",
+    "share": "Share",
+    "analytics": "Analytics",
+    "analyticsDesc": "Data tracking",
+    "users": "Users",
+    "usersDesc": "Auth & Profiles",
+    "database": "Database",
+    "databaseDesc": "Schema & Logs",
+    "uiKit": "UI Kit",
+    "uiKitDesc": "Global Components",
+    "systemStatus": "System Status",
+    "systemOperational": "All systems operational",
+    "viewLogs": "View Logs",
+    "version": "Boilerplate v1.0.0",
+    "buildDate": "Build 1"
+  },
+  "onboarding": {
+    "title": "Welcome",
+    "description": "Get started with our amazing app",
+    "getStarted": "Get Started",
+    "skip": "Skip",
+    "next": "Next",
+    "step1": {
+      "title": "Welcome to the App",
+      "subtitle": "Your journey begins here",
+      "description": "Experience the best way to manage your tasks and boost your productivity."
+    },
+    "step2": {
+      "title": "Create Faster",
+      "subtitle": "Boost your productivity",
+      "description": "Powerful features designed to help you accomplish more in less time."
+    },
+    "step3": {
+      "title": "Stay Organized",
+      "subtitle": "Everything in one place",
+      "description": "Keep track of all your activities and never miss an important deadline."
+    }
+  },
+  "paywall": {
+    "title": "Upgrade to Premium",
+    "description": "Remove ads and unlock all features",
+    "subscribe": "Subscribe Now",
+    "restore": "Restore Purchase",
+    "weekly": "Weekly",
+    "yearly": "Yearly",
+    "save": "Save {{percent}}%",
+    "perMonth": "/month",
+    "benefits": {
+      "noAds": "Ad-free experience",
+      "unlockAll": "Unlock all features",
+      "support": "Priority support"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "account": "Account",
+    "profile": "Profile",
+    "security": "Password & Security",
+    "application": "Application",
+    "darkMode": "Dark Mode",
+    "notifications": "Notifications",
+    "on": "On",
+    "off": "Off",
+    "language": "Language",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "logout": "Log Out",
+    "logoutConfirm": "Are you sure you want to log out?"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "An error occurred"
+  }
+}

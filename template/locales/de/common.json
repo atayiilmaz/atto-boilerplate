@@ -1,0 +1,90 @@
+{
+  "tabs": {
+    "home": "Startseite",
+    "settings": "Einstellungen"
+  },
+  "dashboard": {
+    "welcome": "Willkommen zurück",
+    "user": "Entwickler",
+    "readyToBuild": "Bereit zum Bauen?",
+    "readyToBuildDesc": "Beginnen Sie mit der Erstellung erstaunlicher Erfahrungen mit unseren leistungsstarken Tools und Komponenten.",
+    "viewDocs": "Dokumentation",
+    "share": "Teilen",
+    "analytics": "Analytik",
+    "analyticsDesc": "Datenverfolgung",
+    "users": "Benutzer",
+    "usersDesc": "Auth & Profile",
+    "database": "Datenbank",
+    "databaseDesc": "Schema & Protokolle",
+    "uiKit": "UI-Kit",
+    "uiKitDesc": "Globale Komponenten",
+    "systemStatus": "Systemstatus",
+    "systemOperational": "Alle Systeme betriebsbereit",
+    "viewLogs": "Protokolle anzeigen",
+    "version": "Boilerplate v1.0.0",
+    "buildDate": "Build 1"
+  },
+  "onboarding": {
+    "title": "Willkommen",
+    "description": "Starten Sie mit unserer unglaublichen App",
+    "getStarted": "Jetzt starten",
+    "skip": "Überspringen",
+    "next": "Weiter",
+    "step1": {
+      "title": "Willkommen in der App",
+      "subtitle": "Ihre Reise beginnt hier",
+      "description": "Erleben Sie den besten Weg, um Ihre Aufgaben zu verwalten und Ihre Produktivität zu steigern."
+    },
+    "step2": {
+      "title": "Schneller erstellen",
+      "subtitle": "Steigern Sie Ihre Produktivität",
+      "description": "Leistungsstarke Funktionen, die Ihnen helfen, in weniger Zeit mehr zu erreichen."
+    },
+    "step3": {
+      "title": "Bleiben Sie organisiert",
+      "subtitle": "Alles an einem Ort",
+      "description": "Behalten Sie alle Ihre Aktivitäten im Blick und verpassen Sie keine wichtige Frist."
+    }
+  },
+  "paywall": {
+    "title": "Auf Premium upgraden",
+    "description": "Entfernen Sie Anzeigen und schalten Sie alle Funktionen frei",
+    "subscribe": "Jetzt abonnieren",
+    "restore": "Kauf wiederherstellen",
+    "weekly": "Wöchentlich",
+    "yearly": "Jährlich",
+    "save": "{{percent}}% sparen",
+    "perMonth": "/Monat",
+    "benefits": {
+      "noAds": "Werbefreie Erfahrung",
+      "unlockAll": "Alle Funktionen freischalten",
+      "support": "Prioritäts-Support"
+    }
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "account": "Konto",
+    "profile": "Profil",
+    "security": "Passwort & Sicherheit",
+    "application": "Anwendung",
+    "darkMode": "Dunkler Modus",
+    "notifications": "Benachrichtigungen",
+    "on": "An",
+    "off": "Aus",
+    "language": "Sprache",
+    "support": "Support",
+    "helpCenter": "Hilfe-Center",
+    "privacyPolicy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "logout": "Abmelden",
+    "logoutConfirm": "Möchten Sie sich wirklich abmelden?"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "back": "Zurück",
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten"
+  }
+}
