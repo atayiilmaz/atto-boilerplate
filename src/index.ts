@@ -2,7 +2,6 @@
 
 import { Command } from 'commander';
 import chalk from 'chalk';
-import ora from 'ora';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { runScaffolder } from './scaffolder.js';
@@ -13,15 +12,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const TEXT_ART = `
-${chalk.cyan('   ░███   ░██████████░░██████████  ░██████')}
+${chalk.cyan('   ░███   ░██████████░░██████████░██████')}
 ${chalk.cyan('  ░██░██      ░██      ░░██     ░██   ░██')}
 ${chalk.cyan(' ░██  ░██     ░██      ░░██    ░██     ░██')}
 ${chalk.cyan('░█████████    ░██      ░░██    ░██     ░██')}
 ${chalk.cyan('░██    ░██    ░██      ░░██    ░██     ░██')}
 ${chalk.cyan('░██    ░██    ░██      ░░██     ░██   ░██')}
 ${chalk.cyan('░██    ░██    ░██      ░░██      ░██████')}
-${chalk.white.bold('                ──── • Expo Boilerplate • ────                ')}
-${chalk.gray('               Fast • Feature-rich • Production-ready               ')}
+
+${chalk.white.bold('     ──── • Expo Boilerplate • ────     ')}
+${chalk.gray('Fast • Feature-rich • Production-ready')}
 `;
 
 const program = new Command();
@@ -64,6 +64,13 @@ program
       console.log('');
       printNextSteps(answers);
     } catch (error) {
+      // Handle SIGINT (Ctrl+C) gracefully
+      if (error && typeof error === 'object' && 'name' in error && error.name === 'ExitPromptError') {
+        console.log('');
+        console.log(chalk.gray('Cancelled.'));
+        process.exit(0);
+      }
+
       if (error instanceof Error) {
         console.error('');
         console.error(chalk.red('Error:'), error.message);
