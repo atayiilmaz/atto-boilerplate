@@ -1,6 +1,6 @@
 {
   "name": "create-atto",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Scaffolding CLI for Atto Expo boilerplate",
   "repository": {
     "type": "git",
