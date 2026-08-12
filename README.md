@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://github.com/atayiilmaz/atto-boilerplate/blob/main/src/appicon.png" alt="Atto Logo" width="200" />
@@ -416,7 +418,7 @@ npm run build
 
 ```bash
 npm pack
-npx ./create-atto-0.1.0.tgz test-app
+npx ./create-atto-0.1.3.tgz test-app
 ```
 
 5. **Make changes and test**
@@ -424,7 +426,7 @@ npx ./create-atto-0.1.0.tgz test-app
 ```bash
 npm run build    # Rebuild after changes
 npm pack        # Create new tgz
-npx ./create-atto-0.1.0.tgz test-app   # Test again
+npx ./create-atto-0.1.3.tgz test-app   # Test again
 ```
 
 ### Project Scripts
